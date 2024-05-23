@@ -1,0 +1,26 @@
+{
+    "object": {
+        "name": "HD 136679",
+        "type": "Star",
+        "spectral_type": "G2V",
+        "distance": "100 light years",
+        "coordinates": {
+            "ra": "14h 56m 55s",
+            "dec": "-58° 50' 3\""
+        }
+    },
+    "schrodinger": {
+        "n": 1,
+        "h": 6.62607015e-34,
+        "m": 9.10938356e-31,
+        "L": 1e-10
+    },
+    "heisenberg": {
+        "delta_x": 1e-10,
+        "h": 6.62607015e-34
+    },
+    "planck": {
+        "h": 6.62607015e-34,
+        "nu": 3e15
+    }
+}
